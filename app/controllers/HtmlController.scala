@@ -1,6 +1,7 @@
 package controllers
 
 import play.api.mvc.{Action, Controller}
+import org.htmlcleaner.HtmlCleaner
 
 import scala.io.Source
 
